@@ -5,12 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Samet+Çınar+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
-
 <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Coding" width=200 height=200 align="right">
-<h3 align="center">A passionate web developer from Türkiye</h3>
-
+<h3 align="left">A passionate web developer from Türkiye</h3>
 - 🔭 I’m currently working on **React, Typescript, .Net, Golang, Python**
-
+- 📫 How to reach me **samet062002@outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samet-çınar-141b542ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samet çınar" height="30" width="40" /></a>
