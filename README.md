@@ -7,7 +7,7 @@
 </div>
 <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Coding" width=200 height=200 align="right">
 <h3 align="left">A passionate web developer from Türkiye</h3>
-- 🔭 I’m currently working on React, Typescript, .Net, Golang, Python
+- 🔭 I’m currently working on React, Typescript, .Net, Golang, Python \n
 - 📫 How to reach me samet062002@outlook.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
